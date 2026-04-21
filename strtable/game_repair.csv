@@ -1,0 +1,24 @@
+
+# 修理ウィンドウ
+GAME_REPAIR_TITLE,"修理ウィンドウ"
+GAME_MAX_REPAIR_TITLE,"最大耐久度回復"
+GAME_RESET_POTENTIAL_TITLE,"潜在武具強化リセット"
+GAME_REPAIR_TITLE_PET_0,"ごきげん度回復ウィンドウ"
+GAME_REPAIR_TITLE_PET_1,"転生ウィンドウ"
+GAME_REPAIR_HAVENT_ITEM,"修理アイテムがありません"
+GAME_REPAIR_PARAM_0,"STRが %d 上昇します$r"
+GAME_REPAIR_PARAM_1,"DEXが %d 上昇します$r"
+GAME_REPAIR_PARAM_2,"INTが %d 上昇します$r"
+GAME_REPAIR_PARAM_3,"VITが %d 上昇します$r"
+GAME_REPAIR_PARAM_4,"AGIが %d 上昇します$r"
+GAME_REPAIR_PARAM_5,"MAGが %d 上昇します$r"
+GAME_REPAIR_TRANCE,"$r転生してよろしいですか？"
+GAME_REPAIR_NOT_TRANCE_0,"転生条件を満たしていません"
+GAME_REPAIR_NOT_TRANCE_1,"転生回数が限界に達しています"
+GAME_REPAIR_NOT_TRANCE_2,"転生条件を一部満たしていません"
+GAME_RESET_POTENTIAL_EMPTY,"潜在強化されたアイテムがありません"
+GAME_RESET_POTENTIAL_CONFIRM,"%s$rの潜在強化をリセットします$rよろしいですか？"
+
+# 作業請負ウィンドウ
+GAME_CONTRACT_TITLE,"作業請負ウィンドウ"
+GAME_CONTRACT_USESKILL_MSGBOX,"%sさんがあなたに対して%sを使用します。$r宜しいですか？"

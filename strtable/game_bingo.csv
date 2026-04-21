@@ -1,0 +1,9 @@
+# ビンゴ
+GAME_BINGO_TITLE,"ビンゴカード"
+GAME_BINGO_TAG_REWARD,"ビンゴ報酬"
+GAME_BINGO_TAG_REWARD_LINE,"%dビンゴ報酬"
+GAME_BINGO_STC_DETAIL,"項目をクリックして詳細を見よう。"
+GAME_BINGO_STC_BETWEEN,"イベント期間　4月20日のメンテナンス後～5月25日のメンテナンスまで"
+GAME_BINGO_REWARD_ERR-1,"報酬の受け取りに失敗しました。"
+GAME_BINGO_REWARD_ERR-2,"イベント中は報酬を受け取れません。"
+GAME_BINGO_REWARD_ERR-3,"アイテム所持数に空きがありません。"

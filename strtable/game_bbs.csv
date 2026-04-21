@@ -1,0 +1,12 @@
+
+# 掲示板
+GAME_BBS_TITLE,"掲示板"
+GAME_BBS_INPUT_WND_TITLE,"掲示板入力ウィンドウ"
+GAME_BBS_GOLD,"Ｇ"
+GAME_BBS_POINT,"Ｐ"
+GAME_BBS_ECOIN,"e"
+GAME_BBS_CONTRIBUTE_SUCCEED,"投稿しました"
+GAME_BBS_CONTRIBUTE_FAILED,"投稿に失敗しました"
+GAME_BBS_SHORT_MONEY,"お金が足りません"
+GAME_BBS_FILE_MIN,"投稿内容の文字数が足りません"
+GAME_BBS_UPDATE_LIMITED,"投稿回数が制限に達したため失敗しました"

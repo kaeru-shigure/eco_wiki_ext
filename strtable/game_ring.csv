@@ -1,0 +1,58 @@
+# リング
+GAME_RING_ORGANIZE,"リングを結成しました"
+GAME_RING_ENTER,"リングに参加しました"
+GAME_RING_DISSOLVE,"リングが解散されました"
+GAME_RING_LEAVE,"リングを脱退しました"
+GAME_RING_KICK,"リングから追放されました"
+GAME_RING_CANT_KICK_MASTER,"リングマスター・サブリングマスターを追放する事はできません"
+GAME_RING_KICK_Q,"%sさんを追放します。よろしいですか？"
+GAME_RING_LEAVE_Q,"リングから脱退します。よろしいですか？"
+GAME_RING_SET_POWER,"権限設定"
+
+GAME_RING_MASTER_MENU_0,"権限の設定"
+GAME_RING_MASTER_MENU_1,"追放"
+GAME_RING_MASTER_MENU_2,"ウィスパー"
+GAME_RING_MASTER_MENU_3,"メール"
+
+GAME_RING_MASTER_MENU2_0,"権限の設定"
+GAME_RING_MASTER_MENU2_1,"追放"
+GAME_RING_MASTER_MENU2_2,"ウィスパー"
+GAME_RING_MASTER_MENU2_3,"メール送信先に追加"
+
+
+
+GAME_RING_MENU_0,"脱退"
+
+GAME_RING_BALLOON_TEXT_0,"サブリングマスター権限$r リングに一人までです"
+GAME_RING_BALLOON_TEXT_1,"加入権限$r 人数制限はありません"
+GAME_RING_BALLOON_TEXT_2,"追放権限$r 人数制限はありません"
+GAME_RING_BALLOON_TEXT_3,"エクスパンションポイント使用権限$r人数制限はありません"
+GAME_RING_BALLOON_TEXT_4,"リング倉庫取り出し権限$r 人数制限はありません"
+
+GAME_RING_ERR_1,"相手が見つかりません"
+GAME_RING_ERR_2,"リングサーバーの応答がありません"
+GAME_RING_ERR_3,"相手がリング招待不許可設定です"
+GAME_RING_ERR_4,"相手はリングに加入済みです"
+GAME_RING_ERR_5,"リングを組んでいないので誘えません" 
+GAME_RING_ERR_6,"招待権限を持っていません"
+GAME_RING_ERR_7,"誘った相手が存在していません"
+GAME_RING_ERR_8,"誘った相手に招待権限がありません"
+GAME_RING_ERR_9,"既にリングに入っています"
+GAME_RING_ERR_10,"満員で入れません"
+GAME_RING_ERR_11,"RingErr"
+GAME_RING_ERR_12,"招待権限を持っていません"
+
+GAME_RING_INVITED,"%sさんから$rリング「%s」へ$r誘われました。加入しますか？"
+GAME_RING_INVITED_TITLE,"リング加入要請"
+
+GAME_RING_INFOWND,"リング情報"
+GAME_RING_EMBLEM_NONE,"無し"
+GAME_RING_NOT_FOUND_EMBLEM_FILE,"が見つかりませんでした"
+GAME_RING_EMBLEM_SZ_OVER,"エンブレムのファイルサイズが制限を超えています"
+
+# リングエンブレム
+GAME_RINGEMB_UPLOAD_OK,"エンブレムの登録に成功しました"
+GAME_RINGEMB_UPLOAD_ERR_1,"サーバーエラーによりエンブレム登録ができません"
+GAME_RINGEMB_UPLOAD_ERR_2,"画像フォーマットが不明なためエンブレム登録ができません"
+GAME_RINGEMB_UPLOAD_ERR_3,"リング名声値が足りないためエンブレム登録ができません"
+GAME_RINGEMB_UPLOAD_ERR_99,"リングサーバーの応答がありません"

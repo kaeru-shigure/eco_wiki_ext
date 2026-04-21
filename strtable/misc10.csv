@@ -1,0 +1,17 @@
+# スタックトレース
+GAME_STACKTRACE_CONFIRM,"前回のゲームが予期せぬエラーで終了しました。$rお使いのPCの情報を含むエラー情報を送信していただければ、$r今後の改善に活かすことができます。$r頂いた情報は問題の調査のためだけに使用されます。$r情報を送信してよろしいですか？"
+GAME_STACKTRACE_SEND_OK,"送信しました"
+GAME_STACKTRACE_SEND_ERROR,"送信に失敗しました"
+
+#髪型試着ウィンドウ
+GAME_HAIRTRYON_TITLE0,"髪型変更ウィンドウ"
+GAME_HAIRTRYON_TITLE1,"髪型のオプション変更ウィンドウ"
+GAME_HAIRTRYON_TITLE2,"髪型カタログウィンドウ"
+GAME_HAIRTRYON_TITLE3,"髪型試着ウィンドウ"
+GAME_HAIRTRYON_TAG0,"アイテム"
+GAME_HAIRTRYON_TAG1,"髪型"
+GAME_HAIRTRYON_TAG2,"オプション"
+GAME_HAIRTRYON_CONFIRM_0,"「%s」を使用し$r「%s」の$r「%s」に変更します$rよろしいですか？"
+GAME_HAIRTRYON_CONFIRM_1,"「%s」の$r「%s」に変更します$rよろしいですか？"
+GAME_HAIRTRYON_ERROR-1,"何らかの原因で失敗しました"
+GAME_HAIRTRYON_SAME_HAIR,"現在の髪型です"

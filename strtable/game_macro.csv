@@ -1,0 +1,9 @@
+# マクロウィンドウ
+GAME_MACRO_TITLE,"マクロ"
+GAME_MACRO_NUM_FILE_OVER,"マクロファイル数オーバー"
+GAME_MACRO_MENU_INIT,"マクロの初期化"
+GAME_MACRO_MENU_DEL,"マクロの消去"
+GAME_MACRO_TOOLTIP_LISTBTN,"マクロ設定ファイルを変更します"
+GAME_MACRO_TOOLTIP_NAMEEDIT,"マクロ設定名を変更します$r未登録名は新しいマクロファイルを作成します"
+GAME_MACRO_MENU_DELMSG_MES,"を削除します"
+GAME_MACRO_MENU_RSTMSG_MES,"を初期化します"

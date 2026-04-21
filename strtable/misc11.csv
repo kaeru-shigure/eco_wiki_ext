@@ -1,0 +1,47 @@
+# 機能有効切替
+GAME_SYSTEM_ON_RESULT,"現在この機能は使用できません"
+
+# アイテム性能解放
+GAME_SPECOPEN_CONFIRM,"性能開放"
+GAME_SPECOPEN_ERROR-1,"性能開放ができるアイテムがありません"
+GAME_SPECOPEN_ERROR1,"性能を開放しました"
+
+#モーション試着ウィンドウ
+GAME_MOTIONTRY_TITLE,""
+GAME_MOTIONTRY_TAG,"EXモーション"
+GAME_MOTIONTRY_LOOP0,"ループなし"
+GAME_MOTIONTRY_LOOP1,"ループあり"
+GAME_MOTIONTRY_LEARN,"習得済みのEXモーションです"
+GAME_MOTIONTRY_CONFIRM,"「%s」を習得しますか？"
+GAME_MOTIONTRY_ERR0,"モーション「%s」を習得しました。"
+GAME_MOTIONTRY_ERR-1,"何らかの原因で失敗しました"
+GAME_MOTIONTRY_ERR-2,"変身中のため失敗しました"
+GAME_MOTIONTRY_ERR-3,"習得済みのため失敗しました"
+
+
+# 経路探索
+GAME_ROUTESEARCH_ERROR0,"移動する経路が見つかりません"
+GAME_ROUTESEARCH_ERROR1,"移動できない場所です"
+GAME_ROUTESEARCH_ERROR2,"現在いるマップです"
+GAME_ROUTESEARCH_ERROR3,"オートラン非対応マップです"
+GAME_ROUTESEARCH_ERROR4,"別世界への移動はできません"
+GAME_ROUTESEARCH_CONFIRM,"オートランを開始しますか？"
+GAME_ROUTESEARCH_WORLD_CONFIRM,"%sへ移動しますか？"
+GAME_ROUTESEARCH_INFO_CONFIRM,"%sの所まで移動しますか？"
+GAME_ROUTESEARCH_STOP,"オートランが中断されました"
+GAME_ROUTESEARCH_TRACE_CONFIRM,"%sさんを追尾しますか？"
+GAME_ROUTESEARCH_TRACE_ERROR0,"対象プレイヤーが見つからないため追尾できません"
+
+#オートランウインドウ
+GAME_AUTORUNWND_TITLE,"オートラン"
+GAME_AUTORUNWND_ROUTE,"移動ルート"
+GAME_AUTORUNWND_ROUTE_NONE,"目的地を選択してください"
+GAME_AUTORUNWND_ROUTE_ARROW,"↓"
+GAME_AUTORUNWND_TIME,"推定所要時間 %02d:%02d"
+GAME_AUTORUNWND_TIME_NONE,"推定所要時間 --:--"
+GAME_AUTORUNWND_ITEM,"必要なもの"
+GAME_AUTORUNWND_GOLD,"%dゴールド"
+GAME_AUTORUNWND_ITEM_NONE,"無し"
+
+#ポップアップウィンドウ
+GAME_POP_UP_WINDOW_STR_0,"一定時間行動していなかったため、パートナーのかんたんAI を追従に変更しました$r$r追従ではパートナーは戦闘に参加しません。戦闘をさせたい場合は、$rパートナーを右クリックしてかんたんＡＩ設定でパートナーの状態を変更してください$r※初期状態に戻したい場合は【主人重視】に設定してください"

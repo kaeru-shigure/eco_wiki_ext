@@ -1,0 +1,33 @@
+# 武具再強化
+GAME_REFORTIFY_TITLE,"武具再強化"
+GAME_REFORTIFY_MATERIAL,"材料"
+GAME_REFORTIFY_AFTER,"強化後"
+GAME_REFORTIFY_MSBGBOX,"再強化を行ないます、よろしいですか"
+GAME_REFORTIFYLIST_TITLE,"再強化するアイテム"
+
+GAME_REFORTIFY_OK,"の強化に成功しました"
+GAME_REFORTIFY_ERR,"何らかの原因で失敗しました"
+
+GAME_REFORTIFY_SATIC_1,"%3d 回目強化"
+GAME_REFORTIFY_SATIC_2,"残り強化回数 %3d / %3d"
+
+
+# 潜在武具強化
+GAME_POTENTIALFORCE_TITLE,"潜在武具強化"
+GAME_POTENTIALFORCE_MATERIAL,"材料"
+GAME_POTENTIALFORCE_AFTER,"強化後"
+GAME_POTENTIALFORCE_BP,"取得バックパッカーボーナス経験値"
+GAME_POTENTIALFORCE_BP_EXP,"取得EXP/JOBEXP"
+GAME_POTENTIALFORCE_BP_WARNING,"※ＢＰボーナス適正Lv範囲外です$r　（取得経験値が変動します）"
+GAME_POTENTIALFORCE_MSBGBOX,"%s を使用し、強化を行います"
+GAME_POTENTIALFORCELIST_TITLE,"強化するアイテム"
+GAME_POTENTIALFORCE_EFFECT_UP,"エフェクト変化"
+
+GAME_POTENTIALFORCE_OK,"の強化に成功しました"
+GAME_POTENTIALFORCE_ERR1,"強化を行うためのお金が足りません"
+GAME_POTENTIALFORCE_ERR2,"強化を行うアイテムが存在しません"
+GAME_POTENTIALFORCE_ERR3,"強化材料がありません"
+GAME_POTENTIALFORCE_ERR4,"何らかの原因で失敗しました"
+GAME_POTENTIALFORCE_ERR5,"武具の耐久力が不足しているため行うことができませんでした。" 
+GAME_POTENTIALFORCE_ERR6,"取得経験値が変動したためスキルをキャンセルし、バックパッカーボーナス経験を取得しませんでした"
+GAME_POTENTIALFORCE_ERR6_DLG,"取得経験値が変動したため$rスキルをキャンセルし、バックパッカーボーナス経験を$r取得しませんでした"

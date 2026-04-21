@@ -1,0 +1,19 @@
+
+
+# 毎日スタンプ帳
+GAME_EVERDAY_LOGIN_STAMP_WND,"毎日スタンプ帳" 
+GAME_CAMPAIGN_STAMP_WND1,"ラジオ体操スタンプ帳" 
+GAME_CAMPAIGN_STAMP_BG1,"expstampcard.tga" 
+
+#融合分解
+GAME_FUSIONRELEASE_LIST_TITLE,"融合分解リストウィンドウ"
+GAME_FUSIONRELEASE_TITLE,"融合分解ウィンドウ"
+GAME_FUSIONRELEASE_BEFORE,"▼分解材料"
+GAME_FUSIONRELEASE_AFTER,"▼分解後"
+GAME_FUSIONRELEASE_MSBGBOX,"融合分解を行います、よろしいですか？"
+GAME_FUSIONRELEASE_CALL,"融合分解を行うと、見た目アイテムの$r耐久度・最大耐久度が「1」の状態になります。"
+
+GAME_FUSIONRELEASE_ERR0,"融合分解に成功しました"
+GAME_FUSIONRELEASE_ERR1,"融合分解を行える武具が存在しません"
+GAME_FUSIONRELEASE_ERR2,"アイテム所持数に空きがありません"
+GAME_FUSIONRELEASE_ERR3,"何らかの理由で融合分析が行えません"

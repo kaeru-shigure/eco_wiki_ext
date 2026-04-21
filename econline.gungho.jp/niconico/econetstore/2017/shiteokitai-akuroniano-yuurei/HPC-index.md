@@ -1,0 +1,250 @@
+ECO ネットストア｜エミル・クロニクル・オンライン《公式サイト》
+
+# かわいいアバターがいっぱい！エミル・クロニクル・オンライン《公式サイト》｜ハートフルな世界へようこそ！
+
+## ECO ネットストア Online Store
+
+## ECO ネットストア
+
+### ECOドリーム
+
+#### 知っておきたいアクロニアの幽霊
+
+##### ラインナップ（全13種）
+
+- [![](../../../../econetstore/2012/WickedNightParade/_img/lot_img_01_s.jpg)](#1)
+- [![](../../../../econetstore/2012/WickedNightParade/_img/lot_img_01_s.jpg)](#2)
+- [![](../../../../econetstore/2015/trip-of-spector-to-china/_img/lot_img_01_s.jpg)](#3)
+- [![](../../../../econetstore/2015/trip-of-spector-to-china/_img/lot_img_02_s.jpg)](#4)
+- [![](../../../../econetstore/2015/trip-of-spector-to-china/_img/lot_img_03_s.jpg)](#5)
+- [![](../../../../econetstore/2012/WickedNightParade/_img/lot_img_03_s.jpg)](#6)
+- [![](../../../../econetstore/2015/trip-of-spector-to-china/_img/lot_img_05_s.jpg)](#7)
+- [![](../../../../econetstore/2015/trip-of-spector-to-china/_img/lot_img_06_s.jpg)](#8)
+- [![](../../../../econetstore/2012/WickedNightParade/_img/lot_img_07_s.jpg)](#9)
+- [![](../../../../econetstore/2012/WickedNightParade/_img/lot_img_11_s.jpg)](#10)
+- [![](../../../../econetstore/2012/WickedNightParade/_img/lot_img_12_s.jpg)](#11)
+- [![](../../../../econetstore/2015/trip-of-spector-to-china/_img/lot_img_10_s.jpg)](#12)
+- [![](../../../../econetstore/2015/trip-of-spector-to-china/_img/lot_img_11_s.jpg)](#13)
+- [![](../../../../econetstore/2015/trip-of-spector-to-china/_img/lot_img_12_s.jpg)](#14)
+
+##### 付属アイテム　※一部のラインナップに付属しています
+
+- [![](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/lot_img_16_s.jpg)](#15)
+- [![](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/lot_img_17_s.jpg)](#16)
+- [![](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/lot_img_18_s.jpg)](#17)
+- [![](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/lot_img_19_s.jpg)](#18)
+
+[![](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/lot_img_00_m.jpg)](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/lot_img_00_L.jpg "ECOドリーム「知っておきたいアクロニアの幽霊」")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/lot_img_00_L.jpg "ECOドリーム「知っておきたいアクロニアの幽霊」")
+
+ECOドリーム・テーマシリーズ2017  
+「知っておきたいアクロニアの幽霊」
+
+幽霊をテーマにしたキャラクターとそのアイテムが登場！
+
+[![](../../../../econetstore/2012/WickedNightParade/_img/lot_img_01_m.jpg)](../../../../econetstore/2012/WickedNightParade/_img/lot_img_01_L.jpg "デス・アルマ")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2012/WickedNightParade/_img/lot_img_01_L.jpg "デス・アルマ")
+
+A賞. デス・アルマ ![レア](../../../../econetstore/_img/lot_det_rar.jpg)
+
+［パートナー装備］  
+アルマの一種。  
+デスが人になった姿と言われているがその実態は定かではない。
+
+A賞. スペクター・アルマ ![レア](../../../../econetstore/_img/lot_det_rar.jpg)
+
+B賞. パンダ（赤）  
+＋次元のかけら（80個セット）
+
+B賞. ロリチャイナソックス（茶）  
+＋次元のかけら（80個セット）
+
+[![](../../../../econetstore/2012/WickedNightParade/_img/lot_img_03_m.jpg)](../../../../econetstore/2012/WickedNightParade/_img/lot_img_03_L.jpg "闇夜の紹介状")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2012/WickedNightParade/_img/lot_img_03_L.jpg "闇夜の紹介状")
+
+C賞. 闇夜の紹介状  
+＋ＥＸイベントチケット
+
+［男女併用の紹介状］  
+ヘアサロンに持っていくと「デス・アルマ」とおそろいの髪型にしてもらえる。  
+「デスとおそろいツインテール」と「片目のショート」のいずれかを選択可能。  
+「ＥＸイベントチケット」1個付き。
+
+C賞. スペクターの紹介状  
+＋ＥＸイベントチケット
+
+［男女併用の紹介状］  
+ヘアサロンに持っていくと「スペクター・アルマ」とおそろいの髪型にしてもらえる。  
+「ＥＸイベントチケット」1個付き。
+
+C賞. ロリチャイナワンピース（黒赤）  
+＋ＥＸイベントチケット
+
+[![](../../../../econetstore/2012/WickedNightParade/_img/lot_img_07_m.jpg)](../../../../econetstore/2012/WickedNightParade/_img/lot_img_07_L.jpg "闇夜のコート（黒）")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2012/WickedNightParade/_img/lot_img_07_L.jpg "闇夜のコート（黒）")
+
+C賞. 闇夜のコート（黒）  
+＋ＥＸイベントチケット
+
+[![](../../../../econetstore/2012/WickedNightParade/_img/lot_img_11_m.jpg)](../../../../econetstore/2012/WickedNightParade/_img/lot_img_11_L.jpg "金細工の大鋏")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2012/WickedNightParade/_img/lot_img_11_L.jpg "金細工の大鋏")
+
+D賞. 金細工の大鋏  
+＋みんなのおやつ（初級）
+
+[![](../../../../econetstore/2012/WickedNightParade/_img/lot_img_12_m.jpg)](../../../../econetstore/2012/WickedNightParade/_img/lot_img_12_L.jpg " 黒魔術の花（黒）")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2012/WickedNightParade/_img/lot_img_12_L.jpg " 黒魔術の花（黒）")
+
+D賞. 黒魔術の花（黒）  
+＋みんなのおやつ（初級）
+
+D賞. ロリチャイナ帽（黒赤）  
+＋みんなのおやつ（初級）
+
+[![](../../../../econetstore/2015/trip-of-spector-to-china/_img/lot_img_11_m.jpg)](../../../../econetstore/2015/trip-of-spector-to-china/_img/lot_img_11_L.jpg "蓮の花のビオトープ")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2015/trip-of-spector-to-china/_img/lot_img_11_L.jpg "蓮の花のビオトープ")
+
+E賞. 蓮の花のビオトープ  
+＋みんなのおやつ（中級）
+
+［家具アイテム］  
+飛空庭の庭と部屋の中に配置できる。  
+蓮の葉が浮かんでいる四角いビオトープ。  
+「みんなのおやつ（中級）」1個付き。
+
+E賞. チャイナテーブルセット  
+＋みんなのおやつ（中級）
+
+![](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/lot_img_16_m.jpg)
+
+付属アイテム.　次元のかけら  
+※一部のラインナップに付属しています
+
+クエストカウンターで特別なクエスト「次元のかけらを探して！」に必要となります。  
+「次元のかけらを探して！」では次のＬＶまでの必要経験値の1%を報酬として受け取ることができます。  
+※クエスト「次元のかけらを探して！」は、各種キャンペーン状態およびスキル「エキスパンド」適用外となります。
+
+![](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/lot_img_17_m.jpg)
+
+付属アイテム.　EXイベントチケット  
+※一部のラインナップに付属しています
+
+![](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/lot_img_18_m.jpg)
+
+付属アイテム.　みんなのおやつ（初級）  
+※一部のラインナップに付属しています
+
+パートナーに与えるおやつ。  
+成長を促す軽食。  
+信頼度110％。  
+持続時間10分。  
+すべてのパートナーランクで使用可能。
+
+![](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/lot_img_19_m.jpg)
+
+付属アイテム.　みんなのおやつ（中級）  
+※一部のラインナップに付属しています
+
+パートナーに与えるおやつ。  
+成長を促す軽食。  
+信頼度110％。  
+持続時間10分。  
+すべてのパートナーランクで使用可能。
+
+連動モーションについて
+
+「スペクター・アルマ」がパートナーの時に、エモーションウインドウのモーションタブに「連動モーション」が追加されます。  
+「連動モーション」を実行すると、キャラクターとパートナーが二人同時に特別なモーションを実行します。  
+「連動モーション」はキャラクターとパートナーが静止状態の時に実行されます。  
+移動時や戦闘時は実行されません。
+
+![](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/lot_det_img_01.jpg)
+
+◆「パンダ（赤）」「ロリチャイナソックス（茶）」「ロリチャイナワンピース（黒赤）」「闇夜のコート（黒）」「金細工の大鋏」「黒魔術の花（黒）」「ロリチャイナ帽（黒赤）」「チャイナテーブルセット」について
+
+アップタウン「裁縫おばさん」の家にいる「染色娘」に上記のアイテムを渡すと、各アイテムをそれぞれ決められた別の色に染め直したり、別のアイテムに交換することができます。  
+また、染め直したアイテムを「染色娘」に渡すと、元のアイテムに戻すことができます。
+
+【ご注意】  
+融合している場合は染色・交換ができません。  
+染色・交換をすると、アイテムのイリスカードスロット数や強化値は初期値に戻ってしまいますのでご注意ください。また、スロットに装着していたイリスカードは消滅してしまいますのでご注意ください。
+
+今回のECOドリームのテーマは「知っておきたいアクロニアの幽霊」。幽霊をテーマにしたキャラクターとそのアイテムをご用意いたしました！
+
+A賞には、死霊系モンスターが人間の姿になった「デス・アルマ」と「スペクター・アルマ」が登場！
+
+また、ライドパートナーの「パンダ（赤）」、可愛らしいタイツの「ロリチャイナソックス（茶）」も登場します。
+
+「闇夜の紹介状」「スペクターの紹介状」をヘアサロンに持っていけば、男女どちらでも「デス・アルマ」や「スペクター・アルマ」とおそろいの髪型に変更可能。
+
+「パンダ（赤）」「ロリチャイナソックス（茶）」「ロリチャイナワンピース（黒赤）」「闇夜のコート（黒）」「金細工の大鋏」「黒魔術の花（黒）」「ロリチャイナ帽（黒赤）」「チャイナテーブルセット」は、アップタウン「裁縫おばさん」の家にいる「染色娘」に渡すと別の色に染め直したり、別のアイテムと交換することができます。
+
+B賞には特殊なクエストで使用できる「次元のかけら」が、C賞にはイベント「星を守る者」などで使える「ＥＸイベントチケット」が、D賞、E賞には、使用すると一定時間パートナーの信頼度が上昇しやすくなる「みんなのおやつ（初級）」、または「みんなのおやつ（中級）」がついてお得！
+
+さらに、11回セットを購入すると、もれなく「ECOメダル」が1個おまけで付いてくる！
+
+ECOドリーム「知っておきたいアクロニアの幽霊」で、死霊の正体に迫ってみませんか？
+
+![](../../../../econetstore/2017/shiteokitai-akuroniano-yuurei/_img/navchara_f1.png)
+
+販売期間
+:   2017年5月8日（月）15:00〜2017年5月26日（金）14:00
+
+価格
+:   1回　500ニコニコポイント／11回　5,000ニコニコポイント
+
+販売サイト
+:   ECOネットストア
+:   チケット有効期限  発効日より90日間有効
+
+| 商品内容 | |
+| １回 | アイテムチケットID　１個 |
+| １１回 | アイテムチケットID　１１個 |
+| アイテムチケットID種 | 13種 |
+
+| アイテムチケットIDラインナップ | |
+| --- | --- |
+| A賞 | デス・アルマ（レア）、スペクター・アルマ（レア） |
+| B賞 | パンダ（赤）＋次元のかけら（80個セット）、ロリチャイナソックス（茶）＋次元のかけら（80個セット） |
+| C賞 | 闇夜の紹介状＋ＥＸイベントチケット、スペクターの紹介状＋ＥＸイベントチケット、ロリチャイナワンピース（黒赤）＋ＥＸイベントチケット、闇夜のコート（黒）＋ＥＸイベントチケット |
+| D賞 | 金細工の大鋏＋みんなのおやつ（初級）、黒魔術の花（黒）＋みんなのおやつ（初級）、ロリチャイナ帽（黒赤）＋みんなのおやつ（初級） |
+| E賞 | 蓮の花のビオトープ＋みんなのおやつ（中級）、チャイナテーブルセット＋みんなのおやつ（中級） |
+
+##### 【ECOドリーム】ECOメダルプレゼント
+
+###### ▽内容
+
+「ECOドリーム」のテーマシリーズ「知っておきたいアクロニアの幽霊」を、「11回セットの購入」ボタンから購入する毎に、もれなくゲーム内アイテム「ECOメダル」をプレゼントいたします。
+
+###### ▽キャンペーン期間
+
+2017年5月8日（月）15:00〜2017年5月26日（金）14:00
+
+###### ▽対象条件と景品
+
+対象のECOドリームを「11回セットの購入」ボタンから購入する毎に、以下の景品をプレゼントいたします。
+
+| 対象のECOドリーム | 景品（ゲーム内アイテム） |
+| --- | --- |
+| テーマシリーズ「知っておきたいアクロニアの幽霊」 | ECOメダル　×1枚 |
+
+- 対象のECOドリーム以外は、対象外です。
+- 「1回の購入」ボタンから、対象のECOドリームを11回購入しても対象にはなりません。
+
+###### ▽景品の配布
+
+景品は、対象のECOドリームを購入すると、即時配布いたします。
+
+###### ▽注意事項
+
+- エントリー状況や景品の配布について、個別にお問い合わせいただいてもお答えできません。
+- 当ページの掲載事項に関する全ての条件は、予告なく変更する場合があります。あらかじめ、ご了承ください。
+
+© BROCCOLI/GungHo Online Entertainment,Inc./HEADLOCK Inc.

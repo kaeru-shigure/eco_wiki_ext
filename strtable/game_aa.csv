@@ -1,0 +1,27 @@
+# エンシェントアーク　キャプチャーウィンドウ
+GAME_AARCHCAPTURE_TITLE,"キャプチャーリスト"
+GAME_AARCHCAPTURE_DIFF,"難易度"
+
+# エンシェントアーク　参加者リストウィンドウ
+GAME_AARCHVISITOR_TITLE,"キャプチャー参加者リスト"
+GAME_AARCHVISITOR_STATIC,"下記のキャラクターが参加可能"
+GAME_AARCHVISITOR_WARNING,"同じロビーに居ないと参加できません"
+GAME_AARCHVISITOR_WARNING2,"キャラクター名が灰色で表示されてる方は$r消費物以外の条件を満たしていない為、$r参加する事ができません。$r参加出来ない理由はキャラクター名に$rカーソルを合わせるとバル―ンで表示します。"
+GAME_AARCHVISITOR_ERR,"以下の理由で『%s』に参加できません"
+GAME_AARCHVISITOR_ERR2,"以下の理由で受注しようとしているキャプチャーに参加できません"
+GAME_AARCHVISITOR_ERR_HELP0,"レベルの条件を満たしておりません"
+GAME_AARCHVISITOR_ERR_HELP1,"転生情報の条件を満たしておりません"
+GAME_AARCHVISITOR_ERR_HELP2,"特定のイベントをクリアしておりません"
+GAME_AARCHVISITOR_MSGBOX,"キャプチャーに参加できないメンバーがいます。$rこのまま、受注してもよろしいですか？"
+
+# エンシェントアーク　情報ウィンドウ
+GAME_AARCHINFO_ADD_MOB,"残り%4d体"
+GAME_AARCHINFO_ADD_TIME,"残り%4d秒"
+GAME_AARCHINFO_BALOON_TIME,"%s$r残り%4d分"
+
+# エンシェントアーク　アナウンス
+GAME_AARCH_ANNOUNCE_CLEAR_0,"マップクリア条件に新たなクリア条件が追加されました"
+GAME_AARCH_ANNOUNCE_CLEAR_1,"ルームクリア条件に新たなクリア条件が追加されました"
+# アナザーエンシェントアーク　アナウンス
+GAME_AARCH_ANOTHER_ANNOUNCE_CLEAR_0,"大目標情報に新たな目標が追加されました"
+GAME_AARCH_ANOTHER_ANNOUNCE_CLEAR_1,"中目標情報に新たな目標が追加されました"

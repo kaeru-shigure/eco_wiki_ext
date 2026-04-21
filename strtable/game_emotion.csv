@@ -1,0 +1,28 @@
+# エモーション・アクションウィンドウ
+GAME_ACTCMD_ERR,"取得していないモーションなので、使用できません"
+GAME_ACTCMD_CHANGE,"待機モーションが変更されました"
+GAME_ACTCMD_DEFAULT,"待機モーションを元に戻しました"
+GAME_ACTCMD_CHANGE_ERR,"待機モーションの変更には時間を置いてください"
+
+GAME_EMOCMD_ERR,"取得していないエモーションなので、使用できません"
+GAME_EMOCMD_LOOP_ERR,"ＥＸエモーションを１つも習得していないので、使用できません"
+GAME_EMOCMD_OTP_ERR,"セキュアログインボーナスを設定していないため、専用モーションを使用することができません。$rセキュアログインボーナスを設定すると、色々な特典が付きます。$rセキュアログインボーナスの説明のサイトを開きますか？"
+
+GAME_PARTNERMOTION_CMD,"パートナー連動モーション%d"
+GAME_PARTNERMOTION_CMD1,"/combi%d"
+GAME_PARTNERMOTION_CMD2,"/パートナー連動モーション%s"
+
+GAME_OTPMOTION0_CMD,"【セキュア特典】ダンス"
+GAME_OTPMOTION0_CMD1,"/dance1"
+GAME_OTPMOTION0_CMD2,"/セキュア特典モーション"
+GAME_OTPMOTION1_CMD,"【セキュア特典】宙返り"
+GAME_OTPMOTION1_CMD1,"/backflip"
+GAME_OTPMOTION1_CMD2,"/セキュア特典モーション"
+
+
+
+# エモーション・アクションウィンドウ
+GAME_EMOTION_TITLE,"エモーション"
+GAME_EMOTION_TOOLTIP,"%s$r%s"
+GAME_EMOTION_EXEMO_LOOP_ON,"ＥＸエモーションをループするように変更しました"
+GAME_EMOTION_EXEMO_LOOP_OFF,"ＥＸエモーションをループしないように変更しました"

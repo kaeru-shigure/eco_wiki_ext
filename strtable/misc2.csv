@@ -1,0 +1,36 @@
+# チャットルーム
+GAME_CHATROOM_LEAVE,"チャットルームから退室します"
+GAME_CHATROOM_NOT_IN,"チャットルームに入室していません"
+GAME_CHATROOM_INPUT_PWD,"パスワードを入力してください"
+GAME_CHATROOM_JOINNUM," (%d人参加中)"
+GAME_CHATROOM_LEAVE_POSSIBLE,"退出できます"
+GAME_CHATROOM_ADMIN_GET,"チャットルームの管理権限が与えられました"
+
+# ブロックリスト
+GAME_BLOCK_LIST_REGISTERWND,"キャラクター名を入力してください"
+GAME_BLOCK_LIST_REGISTER_SET_STR,"%sさんをブロックリストに登録しますか？"
+GAME_BLOCK_LIST_REGISTER_DEL_STR,"%sさんをブロックリストから削除しますか？"
+GAME_BLOCKLIST_LEADER_MENU_0,"ブロックリストから削除する"
+GAME_BLOCKLIST_MAXLIST_ERROR,"これ以上ブロックリストに登録をすることはできません"
+
+# 師弟絡み
+GAME_BOND_REQ_TITLE,"師弟要請"
+GAME_BOND_REQ_TEXT,"%sさんから$r師弟要請を受けました"
+
+
+#師弟リスト
+GAME_BOND_RELEASE_MENU_0,"師弟関係を解消する"
+GAME_BOND_ALLRELEASE_MENU_0,"全ての師弟関係を解消する"
+GAME_BOND_LISTDELETE,"師弟関係の解消をしますか？"
+
+
+# コンティニュー
+GAME_CONTINUE_REQ,"アイテム「%s」の効果がなくなりました。$r今すぐアイテム「%s」を購入して使用しますか？"
+GAME_CONTINUE_BUY_0,"アイテム「%s」を購入して、今すぐ使用いたします。$rよろしいですか？$r－－－－－－－－－－－－－－－－－－－－－－－－－－－－$r"
+GAME_CONTINUE_BUY_1,"今すぐ購入して使用するアイテム : %s$r所持ポイント : %d$r購入ポイント : %d$r残りポイント : %d"
+GAME_CONTINUE_NOMONEY,"ShopPointが不足しています。$rShopPointをご購入の上、ECO SHOPよりアイテムをご購入下さい"
+GAME_CONTINUE_ERR_MAXITEM,"アイテム所持数に空きがありません"
+GAME_CONTINUE_ERR_USEIMPOSSIBLE,"アイテムを購入できる状態ではありません"
+
+#MAILL
+GAME_FRIEND_MAILL_POPUP,"メールウィンドウを開く"

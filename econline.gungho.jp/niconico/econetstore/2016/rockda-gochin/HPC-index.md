@@ -1,0 +1,223 @@
+ECO ネットストア｜エミル・クロニクル・オンライン《公式サイト》
+
+# かわいいアバターがいっぱい！エミル・クロニクル・オンライン《公式サイト》｜ハートフルな世界へようこそ！
+
+## ECO ネットストア Online Store
+
+## ECO ネットストア
+
+### ECOドリーム
+
+#### ロックだ！ゴーチン！
+
+##### ラインナップ（全11種）
+
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_01_s.jpg)](#1)
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_01_s.jpg)](#2)
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_02_s.jpg)](#3)
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_03_s.jpg)](#4)
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_04_s.jpg)](#5)
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_05_s.jpg)](#6)
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_06_s.jpg)](#7)
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_07_s.jpg)](#8)
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_08_s.jpg)](#9)
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_09_s.jpg)](#10)
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_10_s.jpg)](#11)
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_11_s.jpg)](#12)
+
+##### 付属アイテム　※一部のラインナップに付属しています
+
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_16_s.jpg)](#15)
+- [![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_17_s.jpg)](#16)
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_00_m.jpg)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_00_L.jpg "ECOドリーム「ロックだ！ゴーチン！」")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_00_L.jpg "ECOドリーム「ロックだ！ゴーチン！」")
+
+ECOドリーム「ロックだ！ゴーチン！」
+
+「神魔の来訪」に登場するアルマがECOドリームに登場！  
+ゲーム内イベント連動！「ＥＸイベントチケット」でイベントがさらに楽しく！
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_01_m.jpg)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_01_L.jpg "ゴーチン・アルマ")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_01_L.jpg "ゴーチン・アルマ")
+
+A賞. ゴーチン・アルマ ![レア](../../../../econetstore/_img/lot_det_rar.jpg)
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_02_m.jpg)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_02_L.jpg "ライダースバイク")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_02_L.jpg "ライダースバイク")
+
+B賞. ライダースバイク  
+＋ＥＸイベントチケット
+
+［ライドパートナー装備］  
+クールなデザインの１人乗り用バイク。  
+「ＥＸイベントチケット」1個付き。
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_03_m.jpg)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_03_L.jpg "ゴーチンの紹介状")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_03_L.jpg "ゴーチンの紹介状")
+
+C賞. ゴーチンの紹介状  
+＋ＥＸイベントチケット
+
+［男女併用の紹介状］  
+ヘアサロンに持っていくと「ゴーチン・アルマ」とおそろいの髪型にしてもらえる。  
+「ＥＸイベントチケット」1個付き。
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_04_m.jpg)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_04_L.jpg "ライブバー風の壁")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_04_L.jpg "ライブバー風の壁")
+
+C賞. ライブバー風の壁  
+＋ＥＸイベントチケット
+
+［家具アイテム］  
+飛空庭の家の内壁を変更する。  
+ライブステージとバーカウンターのある壁紙。  
+「ＥＸイベントチケット」1個付き。
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_05_m.jpg)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_05_L.jpg "ソウルロックウェア（黒）")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_05_L.jpg "ソウルロックウェア（黒）")
+
+C賞. ソウルロックウェア（黒）  
+＋ＥＸイベントチケット
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_06_m.jpg)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_06_L.jpg "ソウルロックタイツ（黒）")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_06_L.jpg "ソウルロックタイツ（黒）")
+
+D賞. ソウルロックタイツ（黒）  
+＋信頼度あがーる（小）
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_07_m.jpg)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_07_L.jpg " ソウルロックハーフブーツ（黒）")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_07_L.jpg " ソウルロックハーフブーツ（黒）")
+
+D賞. ソウルロックハーフブーツ（黒）  
+＋信頼度あがーる（小）
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_08_m.jpg)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_08_L.jpg "ライダースファーコート（黒）")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_08_L.jpg "ライダースファーコート（黒）")
+
+D賞. ライダースファーコート（黒）  
+＋信頼度あがーる（小）
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_09_m.jpg)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_09_L.jpg "ライダースロングブーツ（黒）")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_09_L.jpg "ライダースロングブーツ（黒）")
+
+E賞. ライダースロングブーツ（黒）  
+＋信頼度あがーる（小）
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_10_m.jpg)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_10_L.jpg "ダーツ・マシン（黒）")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_10_L.jpg "ダーツ・マシン（黒）")
+
+E賞. ダーツ・マシン（黒）  
+＋信頼度あがーる（小）
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_11_m.jpg)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_11_L.jpg "ライブバーテーブルセット（青）")
+
+[![拡大する](../../../../econetstore/_img/lot_but_zoom_f1.gif)](../../../../econetstore/2016/rockda-gochin/_img/lot_img_11_L.jpg "ライブバーテーブルセット（青）")
+
+E賞. ライブバーテーブルセット（青）  
+＋信頼度あがーる（小）
+
+![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_16_m.jpg)
+
+付属アイテム.　EXイベントチケット  
+※一部のラインナップに付属しています
+
+![](../../../../econetstore/2016/rockda-gochin/_img/lot_img_17_m.jpg)
+
+付属アイテム.信頼度あがーる（小）  
+※一部のラインナップに付属しています
+
+使用するとパートナーの信頼度が上昇します。  
+使用すると消滅する消費アイテムです。
+
+![](../../../../econetstore/2016/rockda-gochin/_img/lot_det_img_01.jpg)
+
+◆「ソウルロックウェア（黒）」「ソウルロックタイツ（黒）」「ソウルロックハーフブーツ（黒）」「ライダースファーコート（黒）」「ライダースロングブーツ（黒）」「ダーツ・マシン（黒）」「ライブバーテーブルセット（青）」について
+
+アップタウン「裁縫おばさん」の家にいる「染色娘」に上記のアイテムを渡すと、各アイテムをそれぞれ決められた別の色に染め直したり、別のアイテムに交換することができます。  
+また、染め直したアイテムを「染色娘」に渡すと、元のアイテムに戻すことができます。
+
+【ご注意】  
+融合している場合は染色・交換ができません。  
+染色・交換をすると、アイテムのイリスカードスロット数や強化値は初期値に戻ってしまいますのでご注意ください。また、スロットに装着していたイリスカードは消滅してしまいますのでご注意ください。
+
+友情の一撃について
+
+「ゴーチン・アルマ」がパートナーの時に、スキルウインドウのベースタブに「友情の一撃」が追加されます。  
+「友情の一撃」を実行すると、パートナーが反撃状態となります。
+
+ゴーチン・アルマのスキル一覧
+
+|  |  |
+| --- | --- |
+| ▲爆裂フルスイング | 自身の周囲を攻撃した後、攻撃を受けた敵を爆発させる。 |
+| ▲気ィ失っても知らないよ？ | 指定対象とその周囲を攻撃し、一定確率でスタンさせる。 |
+| ▲本気出していこうぜ！ | 一定時間、物理最大攻撃力を上昇させる。 |
+| ▲岩石の護り | 指定対象の物理防御力と魔法防御力を上昇させる。 |
+
+連動モーションについて
+
+「ゴーチン・アルマ」がパートナーの時に、エモーションウインドウのモーションタブに「連動モーション」が追加されます。  
+「連動モーション」を実行すると、キャラクターとパートナーが二人同時に特別なモーションを実行します。  
+「連動モーション」はキャラクターとパートナーが静止状態の時に実行されます。  
+移動時や戦闘時は実行されません。
+
+[![](../../../../econetstore/2016/rockda-gochin/_img/lot_atc_img.jpg)](../../../../niconico/special/shinma/HPC-index.html)
+
+上記は外部サイトに遷移します。
+
+今回のECOドリームのテーマは「ロックだ！ゴーチン！」。毎月新しい物語が楽しめるイベント「神魔の来訪」に登場するアルマをイメージしたアイテムをご用意いたしました！
+
+今回のECOドリームには、「神魔の来訪」に登場する「ゴーチン・アルマ」がパートナーになって登場！
+
+「ゴーチン・アルマ」をパートナーにするとスキルに「友情の一撃」が追加され、パートナーを反撃状態にします。また、モーションに「パートナー連動モーション」が追加され、キャラクターと一緒に特別なモーションを実行することができます。  
+さらに、「ゴーチン・アルマ」を右クリックすることで、「ゴーチン・アルマ」のセリフの一部を好きなセリフにカスタマイズすることができます。
+
+「ライダースバイク」は、クールなデザインが特徴のライドパートナーです。
+
+「ゴーチンの紹介状」をヘアサロンに持っていけば、男女どちらでも「ゴーチン・アルマ」とおそろいの髪型に変更可能。
+
+「ソウルロックウェア（黒）」「ソウルロックタイツ（黒）」「ソウルロックハーフブーツ（黒）」「ライダースファーコート（黒）」「ライダースロングブーツ（黒）」「ダーツ・マシン（黒）」「ライブバーテーブルセット（青）」は、アップタウン「裁縫おばさん」の家にいる「染色娘」に渡すと別の色に染め直したり、別のアイテムと交換することができます。
+
+B賞とC賞にはイベント「神魔の来訪」などで使える「ＥＸイベントチケット」が、
+D賞とE賞には、使用するとパートナーの信頼度が上昇する「信頼度あがーる（小）」がついてお得！
+
+ECOドリーム「ロックだ！ゴーチン！」で「神魔の来訪」の世界観を楽しんじゃおう！
+
+![](../../../../econetstore/2016/rockda-gochin/_img/navchara_f1.png)
+
+販売期間
+:   2016年11月4日（金）15:00 ～ 2016年11月25日（金）14:00
+
+価格
+:   1回　500ニコニコポイント／11回　5,000ニコニコポイント
+
+販売サイト
+:   ECOネットストア
+:   チケット有効期限  発効日より90日間有効
+
+| 商品内容 | |
+| １回 | アイテムチケットID　１個 |
+| １１回 | アイテムチケットID　１１個 |
+| アイテムチケットID種 | 11種 |
+
+| アイテムチケットIDラインナップ | |
+| --- | --- |
+| A賞 | ゴーチン・アルマ（レア） |
+| B賞 | ライダースバイク＋ＥＸイベントチケット |
+| C賞 | ゴーチンの紹介状＋ＥＸイベントチケット、ライブバー風の壁＋ＥＸイベントチケット、ソウルロックウェア（黒）＋ＥＸイベントチケット |
+| D賞 | ソウルロックタイツ（黒）＋信頼度あがーる（小）、ソウルロックハーフブーツ（黒）＋信頼度あがーる（小）、ライダースファーコート（黒）＋信頼度あがーる（小） |
+| E賞 | ライダースロングブーツ（黒）＋信頼度あがーる（小）、ダーツ・マシン（黒）＋信頼度あがーる（小）、ライブバーテーブルセット（青）＋信頼度あがーる（小） |
+
+© BROCCOLI/GungHo Online Entertainment,Inc./HEADLOCK Inc.

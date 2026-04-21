@@ -1,0 +1,18 @@
+# ログウィンドウ
+GAME_LOG_TITLE,"ログ"
+GAME_LOG_TOK,"："
+GAME_LOG_NOT_FOUND_ADDR,"%sさんを見つけられませんでした。"
+GAME_LOG_POSSESSED,"[%s]に憑依されました"
+GAME_LOG_REMOVE_POSSESS_EQUIP,"[%s]の憑依装備が解除されました"
+GAME_LOG_REMOVE_RIDE,"[%s]の憑依が解除されました"
+GAME_LOG_CANCELED_LOGOUT,"ログアウトがキャンセルされました"
+GAME_LOG_LINECHAT_TITLE,"ラインチャット"
+GAME_LOG_REMAINS_LOGOUT,"ログアウトまで残り"
+GAME_LOG_SEC,"秒"
+GAME_LOG_ITEMFILTER_ON,"アイテムウィンドウに表示フィルターが適用されています"
+GAME_LOG_PPROOM_NOT_IN,"ルームに入っていません"
+
+# ログイン
+GAME_LOGIN_NOT_FOUND_GMSV,"接続先のゲームサーバーが見つかりませんでした"
+GAME_LOGIN_TITLE,"ログイン"
+GAME_LOGIN_TITLE2,"ワールドを選択してください"

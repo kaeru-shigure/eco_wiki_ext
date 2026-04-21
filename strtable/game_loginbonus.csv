@@ -1,0 +1,12 @@
+# ログインボーナス
+GAME_LOGINBONUS_INFO,"ネットカフェからログイン中"
+GAME_LOGINBONUS_TIME,"【所持ＮＣポイント：%s】"
+GAME_LOGINBONUS_DISABLE_CAFE,"飛空城の発着場がないため移動できません"
+GAME_LOGINBONUS_WORLD_ERROR,"エミル世界以外からは移動できません"
+GAME_NCPOINT_UPDATE1,"ネットカフェポイントを%d入手しました"
+GAME_NCPOINT_UPDATE2,"ネットカフェポイントを%d失いました"
+GAME_NCPOINT_UPDATE3,"有効期限を過ぎたため、ネットカフェポイントを%d失いました"
+GAME_NCPOINT_RESETTIME1,"%d年%d月%d日%d時に所有されているネットカフェポイントの有効期限が切れます。"
+GAME_NCPOINT_RESETTIME2,"有効期限が切れた場合、所有している%dネットカフェポイントは0になります。"
+GAME_NCPOINT_RESETTIME3,"このメッセージはネットカフェポイントをすべてご利用いただくか、"
+GAME_NCPOINT_RESETTIME4,"ECO公認店舗を利用して有効期限を延長する事で表示されなくなります。"

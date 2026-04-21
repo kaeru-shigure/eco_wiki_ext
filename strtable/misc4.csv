@@ -1,0 +1,53 @@
+
+# ログアウト
+GAME_LOGOUT_NOTIFY,"あと%s分でログアウトします。"
+
+
+# システムメッセージ(移動)
+GAME_SMSG_MAPCHNAGE_ERR1,"ワープするマップがありません"
+GAME_SMSG_MAPCHNAGE_ERR2,"ワープ後の座標がマップの外にあります"
+GAME_SMSG_MAPCHNAGE_ERR3,"憑依中の為ワープ出来ません"
+GAME_SMSG_MAPCHNAGE_ERR4,"ログアウト中の為ワープ出来ません"
+
+# システムメッセージ(フレンドリスト)
+GAME_SMSG_FRIEND_REGIST,"%sさんをフレンドリストに登録しました"
+GAME_SMSG_FRIEND_REGISTERR1,"相手が見付かりません"
+GAME_SMSG_FRIEND_REGISTERR2,"既に登録しています"
+GAME_SMSG_FRIEND_REGISTERR3,"相手に拒否されました"
+GAME_SMSG_FRIEND_REGISTERR4,"フレンドリストに空きがありません"
+GAME_SMSG_FRIEND_REGISTERR5,"相手のフレンドリストに空きがありません"
+GAME_SMSG_FRIEND_REGISTERR6,"相手がフレンド招待不許可設定です"
+GAME_SMSG_FRIEND_DELETEERR1,"指定されたキャラがフレンドリストにありません"
+GAME_SMSG_FRIEND_DELETE,"%sさんがフレンドリストから削除されました"
+
+GAME_SMSG_FRIEND_INVITE_ERR1,"相手がログインしていません"
+GAME_SMSG_FRIEND_INVITE_ERR-1,"相手が見付かりません"
+
+# システムメッセージ(ブロックリスト)
+GAME_SMSG_BLOCKLIST_REGIST,"%sさんをブロックリストに登録しました"
+GAME_SMSG_BLOCKLIST_REGISTERR1,"相手が見付かりません"
+GAME_SMSG_BLOCKLIST_REGISTERR2,"既に登録しています"
+GAME_SMSG_BLOCKLIST_REGISTERR3,"ブロックリストに空きがありません"
+GAME_SMSG_BLOCKLIST_DELETEERR1,"指定されたキャラがブロックリストにありません"
+GAME_SMSG_BLOCKLIST_DELETE,"%sさんがブロックリストから削除されました"
+
+# システムメッセージ(メール)
+GAME_SMSG_MAIL_SEND,"メールを送信しました"
+GAME_SMSG_FRIEND_MAILERR1,"送信相手が見付かりません"
+GAME_SMSG_MAIL_SENDERR1,"送信相手(%s)さんが見付かりません"
+GAME_SMSG_MAIL_SENDERR2,"送信相手(%s)さんのメールボックスが一杯です"
+GAME_SMSG_MAIL_SENDERR99,"送信相手(%s)さんが見つかりません"
+
+# システムメッセージ(シアター)
+GAME_SMSG_THEATER_BFR_BEGIN,"バッファリングを開始します"
+GAME_SMSG_THEATER_BFR_BUSY,"バッファリング中…"
+GAME_SMSG_THEATER_BFR_READY,"バッファリング準備完了"
+GAME_SMSG_THEATER_LOAD_ERR,"メディアの初期化に失敗しました [0x%08x]"
+GAME_SMSG_THEATER_EABORT,"ムービー再生が中止されました [0x%08x]"
+GAME_SMSG_THEATER_UABORT,"ムービー再生が中止されました"
+GAME_SMSG_THEATER_COMPLETE,"ムービー再生は正常に終了しました"
+
+# システムメッセージ(掲示板)
+GAME_SMSG_BBS_POSTERR1,"投稿できませんでした"
+GAME_SMSG_BBS_POSTERR2,"所持金が足りません"
+GAME_SMSG_BBS_GETERR1,"取得できませんでした"

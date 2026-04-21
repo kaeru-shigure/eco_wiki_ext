@@ -1,0 +1,43 @@
+// 特典ウインドウ
+GAME_PRIVILEGEWND_TITLE,"特典"
+GAME_PRIVILEGEWND_OTP,"・セキュアログインボーナスの特典発生中$r  ・武具強化成功確率上昇中$r  ・スロット拡張成功確率上昇中$r  ・カードアセンブル成功確率上昇中$r  ・専用モーションが使用可能"
+
+// パートナー連動モーション 失敗ログ
+GAME_PARTNERMOTION_ERROR-1,"現在再生できる状態ではありません"
+GAME_PARTNERMOTION_ERROR-2,"主人がパートナー連動モーションを行える状態ではありません"
+GAME_PARTNERMOTION_ERROR-3,"イベント中はパートナー連動モーションを行えません"
+GAME_PARTNERMOTION_ERROR-4,"主人の付近に十分な空間がありません"
+GAME_PARTNERMOTION_ERROR-5,"パートナーが戦闘している時はパートナー連動モーションを行えません"
+
+#神憑依
+GAME_GODSOUL_ON,"神憑依状態になりました"
+GAME_GODSOUL_OFF,"神憑依状態が解除されました"
+
+#まいにちダンジョンウィンドウ
+GAME_DAILYDUNGEONWND_TITLE,"まいにちダンジョン情報"
+GAME_DAILYDUNGEONWND_CATEGORY,"本日のまいにちダンジョン"
+GAME_DAILYDUNGEONWND_TIME,"開催残り時間　残り % 2d 時間 % 2d 分"
+GAME_DAILYDUNGEONWND_TIME_ONLY,"開催残り時間　残り僅か"
+GAME_DAILYDUNGEONWND_TIME_NOADMISSION,"入場不可"
+GAME_DAILYDUNGEONWND_REWARD_TAG,"報酬"
+GAME_DAILYDUNGEONWND_REWARD_0,"クリア報酬"
+GAME_DAILYDUNGEONWND_REWARD_1,"まいにち報酬"
+GAME_DAILYDUNGEONWND_REWARD_INFO_0,"※初回のみ取得量増加"
+GAME_DAILYDUNGEONWND_REWARD_INFO_1,"※受け取り済み"
+GAME_DAILYDUNGEONWND_REWARD_INFO_2,"※いずれか入手可能"
+GAME_DAILYDUNGEONWND_ITEM_0,"主なレアアイテム"
+GAME_DAILYDUNGEONWND_ITEM_1,"取得可能アイテム"
+GAME_DAILYDUNGEONWND_GETINFO_TAG,"報酬アイテム受け取り条件"
+GAME_DAILYDUNGEONWND_GETINFO_0,"無条件"
+GAME_DAILYDUNGEONWND_GETINFO_1,"クエストポイントを 1 消費"
+GAME_DAILYDUNGEONWND_WARNING_0,"午前５時に下記の情報を更新します。$r　本日のまいにちダンジョンの切替$r　初回クリア情報のリセット$r$r※ただし、情報保護の為に$r　下記の時間帯は入場する事は出来ません。$r　　AM 4:00 ～ AM 4:59$r$r既にインスタンスダンジョンを生成している場合、$r入場出来ません。$rご注意ください。$r$rダンジョンに入場するには$rパートナーを装備する必要があります。"
+GAME_DAILYDUNGEONWND_WARNING_1,"午前５時に下記の情報を更新します。$r　本日のまいにちダンジョンの切替$r　初回クリア情報のリセット$r$r※ただし、情報保護の為に$r　下記の時間帯は入場する事は出来ません。$r　　AM 4:00 ～ AM 4:59$r$r既にインスタンスダンジョンを生成している場合、$r入場出来ません。$rご注意ください。"
+GAME_DAILYDUNGEONADMISSIONWND_MSG,"入場中"
+GAME_DAILYDUNGEONADMISSIONWND_STR,"あと %d 秒後に入場します"
+GAME_DAILYDUNGEONADMISSIONWND_LOG,"入場まであと%d秒"
+
+#ヘルプ
+GAME_HELP_TITLE,"ヘルプ"
+GAME_HELP_URL,"http://econline.gungho.jp/game_help/"
+GAME_HELP_WIDTH,"810"
+GAME_HELP_HEIGHT,"700"

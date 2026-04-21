@@ -1,0 +1,13 @@
+#GiftSystemウィンドウ
+GAME_GIFTSYSTEM_WND,"送りたい相手を選択してください"
+GAME_GIFTSYSTEM_TEXT_0,"送信者"
+GAME_GIFTSYSTEM_TEXT_1,"メッセージ"
+
+GAME_GIFTSYSTEM_TEXT_2,"ＥＣＯショップＧＩＦＴサービスをご利用いただき、"
+GAME_GIFTSYSTEM_TEXT_3,"誠にありがとうございます。"
+GAME_GIFTSYSTEM_TEXT_4,"様が"
+GAME_GIFTSYSTEM_TEXT_5,"様にお送りするアイテムは"
+GAME_GIFTSYSTEM_TEXT_6,"以下のものになります。"
+GAME_GIFTSYSTEM_TEXT_7,"様のポイントを"
+GAME_GIFTSYSTEM_TEXT_8,"ポイント消費して"
+GAME_GIFTSYSTEM_TEXT_9,"様にアイテムをお送りしますが、よろしいですか？"

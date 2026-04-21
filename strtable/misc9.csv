@@ -1,0 +1,47 @@
+#モンスターサーチ
+GAME_MOBSEARCH_WND_TITLE,"モンスターサーチ"
+GAME_MOBSEARCH_LIST_ERR,"サーチ可能なモンスターが出現していません"
+GAME_MOBSEARCH_ERR_NOT,"指定されたモンスターは現在出現していません"
+GAME_BOSSSEARCH_ERR_NOT,"ボスモンスターは現在出現していません"
+
+#プレイヤー経験値アナウンス関係
+GAME_PLAYER_ANNOUNCE_EXP_TAG0,"%sを取得しました"
+GAME_PLAYER_ANNOUNCE_EXP_TAG1,"(憑依)%sを取得しました"
+GAME_PLAYER_ANNOUNCE_EXP_TAG2,"%sを失いました"
+GAME_PLAYER_ANNOUNCE_EXP_TAG3,"たまいれの効果により%sを取得しました"
+GAME_PLAYER_ANNOUNCE_EXP_BASE,"基本経験値 %lld、"
+GAME_PLAYER_ANNOUNCE_EXP_JOB,"職業経験値 %lld"
+GAME_PLAYER_ANNOUNCE_EXP_PAGE,"、ページ経験値 %lld"
+
+# 移動スタイル
+GAME_MOVE_STYLE_RUN,"走り状態になりました"
+GAME_MOVE_STYLE_WALK,"歩き状態になりました"
+
+#Facebook×Kalydo フィードウィンドウ
+GAME_FACEBOOK_FEED_TITLE,"フリーメッセージを入力してください（全角140文字まで）"
+
+#他者の装備確認
+GAME_CHARAEQUIPINFO_TITLE,"%sさんの装備"
+GAME_CHARAEQUIPINFO_ERR0,"対象キャラクターとの距離が離れすぎています"
+GAME_CHARAEQUIPINFO_ERR1,"他人の装備情報を確認するには少し時間を置いてください"
+GAME_CHARAEQUIPINFO_ERR-1,"対象キャラクターが存在しません"
+GAME_CHARAEQUIPINFO_ERR-2,"対象キャラクターの装備情報は見られない状態です"
+
+
+# 世界ウィンドウ
+GAME_WORLDMAP_MONSTER_POINT_NOT_DATA,"特定できませんでした。"
+
+# ミッションリストウィンドウ
+GAME_MISSIONLISTWND_TITLE,"ミッションリスト"
+GAME_MISSIONLISTWND_ITEMNUMTEXT,"%d枚"
+GAME_MISSIONLISTWND_OKERR,"ミッションの受領を失敗しました"
+
+# ワールド対抗戦リザルトウィンドウ
+GAME_WLDBTLRESULTWND_TITLE,"ワールド対抗戦の結果"
+GAME_WLDBTLRESULTWND_WORLDTAG,"今回の勝利ワールド"
+GAME_WLDBTLRESULTWND_BONUSTAG_1,"発動する効果"
+GAME_WLDBTLRESULTWND_WORLDBONUSTAG,"ワールドボーナス:"
+
+# カード選択ウィンドウ
+GAME_CARDSELECTWND_PUT_ERR-1,"何らかの原因で失敗しました"
+GAME_CARDSELECTWND_REMOVE_ERR-1,"何らかの原因で失敗しました"

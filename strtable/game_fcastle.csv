@@ -1,0 +1,172 @@
+
+#飛空城入場ウィンドウ
+GAME_CASTLELIST_TITLE,"飛空城リスト"
+GAME_CASTLELIST_CASTLE_TXT,"リング飛空城："
+GAME_CASTLELIST_PAGE,"%d/%d"
+GAME_CASTLELIST_SORTBTN_CASTLENAME,"飛空城名"
+GAME_CASTLELIST_SORTBTN_CASTLELV,"LV"
+GAME_CASTLELIST_SORTBTN_RINGNAME,"所有リング名"
+GAME_CASTLELIST_SORTBTN_COMMENT,"コメント"
+GAME_CASTLELIST_NEED_ACCESS,"アクセス権限が必要です"
+GAME_CASTLELIST_NOTACCESS_ERR,"アクセス権限が無いため、入場に失敗しました"
+GAME_CASTLELIST_ADMISSION_ERR_0,"混み合っているため、入場に失敗しました"
+GAME_CASTLELIST_ADMISSION_ERR_1,"何らかの原因で失敗しました"
+
+
+#飛空城　ビュートリガー
+GAME_FCASTLE_VIEW_ERROR_EVENT, "イベント中の為、ビューモードには出来ません"
+#飛空城　ビュー操作
+GAME_FCASTLE_VIEW_OPE_TITLE,"ビューマネージャー"
+GAME_FCASTLE_VIEW_OPE_FONT,"カーソルキーで視点の$r移動が出来ます"
+
+#飛空城　情報ウィンドウ
+GAME_FCASTLE_INFO_TITLE,"飛空城情報"
+GAME_FCASTLE_INFO_CASTLE_TAG0,"飛空城名"
+GAME_FCASTLE_INFO_CASTLE_TAG1,"飛空城 Lv"
+GAME_FCASTLE_INFO_MSG_TAG0,"入場"
+GAME_FCASTLE_INFO_MSG_TAG1,"状態"
+GAME_FCASTLE_INFO_MSG_RIGHT0,"無制限"
+GAME_FCASTLE_INFO_MSG_RIGHT1,"リングメンバーのみ"
+GAME_FCASTLE_INFO_MSG_STATE0,"正常"
+GAME_FCASTLE_INFO_MSG_STATE1,"滞納中"
+GAME_FCASTLE_INFO_MSG_STATE2,"差し押さえ"
+GAME_FCASTLE_INFO_MSG_STATE3,"維持不能"
+GAME_FCASTLE_INFO_HELP_TAB0,"飛空城の基本情報を表示します"
+GAME_FCASTLE_INFO_HELP_TAB1,"飛空城の拡張情報を表示します"
+GAME_FCASTLE_INFO_HELP_TAB2,"飛空城の土台情報を表示します"
+GAME_FCASTLE_INFO_BASE_POINT_TAG0,"所持マテリアルポイント"
+GAME_FCASTLE_INFO_BASE_POINT_TAG1,"マテリアルコスト"
+GAME_FCASTLE_INFO_BASE_TIME_TAG0,"次回引き落とし日時"
+GAME_FCASTLE_INFO_BASE_TIME_TAG1,"差し押さえ予定日時"
+GAME_FCASTLE_INFO_BASE_TIME_TAG2,"強制撤去予定日時"
+GAME_FCASTLE_INFO_BASE_TIME," %04d年%02d月%02d日 %02d時%02d分"
+GAME_FCASTLE_INFO_BASE_NO_TIME," ----年--月--日 --時--分"
+GAME_FCASTLE_INFO_EXPAN_POINT_TAG,"所持エクスパンションポイント"
+GAME_FCASTLE_INFO_EXPAN_SECT_TAG0,"ファイターセクト"
+GAME_FCASTLE_INFO_EXPAN_SECT_TAG1,"スペルユーザーセクト"
+GAME_FCASTLE_INFO_EXPAN_SECT_TAG2,"バックパッカーセクト"
+GAME_FCASTLE_INFO_EXPAN_SECT_TAG3,"ＤＥＭセクト"
+GAME_FCASTLE_INFO_MSG_CASTLE_LV_UP,"飛空城のレベルが %d になりました"
+GAME_FCASTLE_INFO_MSG_FTSECT_LV_UP,"ファイターセクトレベルが %d になりました"
+GAME_FCASTLE_INFO_MSG_SUSECT_LV_UP,"スペルユーザーセクトレベルが %d になりました"
+GAME_FCASTLE_INFO_MSG_BPSECT_LV_UP,"バックパッカーセクトレベルが %d になりました"
+GAME_FCASTLE_INFO_MSG_DEMSECT_LV_UP,"ＤＥＭセクトレベルが %d になりました"
+GAME_FCASTLE_INFO_CASTLE_HAVE,"入手済"
+GAME_FCASTLE_INFO_CASTLE_NOHAVE,"未入手"
+
+
+
+#飛空城　状態ログメッセージ(滞納中、差押中、撤去中)
+GAME_FCASTLE_STATE_LOGMSG,"詳しくは、飛空城甲板にある操作パネルから「ヘルプ」→「維持に関して」を参照ください。"
+GAME_FCASTLE_STATE_LOGMSG_1_0,"【注意】飛空城が滞納状態になっています。"
+GAME_FCASTLE_STATE_LOGMSG_1_1,"差し押さえ予定日まで滞納し続けた場合、飛空城は差し押さえ状態となります。"
+GAME_FCASTLE_STATE_LOGMSG_2_0,"【警告】飛空城が差し押さえ状態になっています。"
+GAME_FCASTLE_STATE_LOGMSG_2_1,"強制撤去予定日まで滞納し続けた場合、飛空城は維持不能状態となります。"
+GAME_FCASTLE_STATE_LOGMSG_2_2,"維持不能状態になりますと、飛空城に配置した家具は全て消滅し、一切保障されません。"
+GAME_FCASTLE_STATE_LOGMSG_3_0,"【告知】飛空城の差し押さえ状態が２６週間続いた為"
+GAME_FCASTLE_STATE_LOGMSG_3_1,"飛空城に配置されていた全ての家具が強制撤去され消滅しました。"
+
+#飛空城 城配置メッセージ
+GAME_FCASTLE_DELCASTLE_MSG,"「%s」を撤去しました"
+GAME_FCASTLE_SETCASTLE_MSG,"「%s」を設置しました"
+GAME_FCASTLE_SETCASTLE_ERR_1,"アイテムの設置に失敗しました"
+GAME_FCASTLE_SETCASTLE_ERR_2,"飛空城が差し押さえ状態のため設置できません"
+GAME_FCASTLE_SETCASTLE_ERR_3,"リングハウスが設置できない座標です"
+GAME_FCASTLE_SETCASTLE_ERR_4,"飛空城が強制撤去状態のため設置できません"
+GAME_FCASTLE_SETCASTLE_ERR_5,"リングマスターしか変更できません"
+GAME_FCASTLE_SETCASTLE_ERR_101,"リングハウスの再配置に失敗しました"
+GAME_FCASTLE_SETCASTLE_ERR_102,"飛空城が差し押さえ状態のため再配置できません"
+GAME_FCASTLE_SETCASTLE_ERR_103,"リングマスターしか変更できません"
+GAME_FCASTLE_SETCASTLE_ERR_201,"「%s」の撤去に失敗しました"
+GAME_FCASTLE_SETCASTLE_ERR_202,"飛空城が差し押さえ状態のため撤去できません"
+GAME_FCASTLE_SETCASTLE_ERR_203,"これ以上アイテムを所持することができません"
+GAME_FCASTLE_SETCASTLE_ERR_204,"リングマスターしか変更できません"
+
+#飛空城 家具配置メッセージ
+GAME_FCASTLE_SETFURNITURE_ERR_1,"アイテムの設置に失敗しました"
+GAME_FCASTLE_SETFURNITURE_ERR_2,"飛空城が差し押さえ状態のため設置できません"
+GAME_FCASTLE_SETFURNITURE_ERR_3,"これ以上アイテムを設置できません"
+GAME_FCASTLE_SETFURNITURE_ERR_4,"飛空城が強制撤去状態のため設置できません"
+
+#飛空庭、飛空城　家具使用時のメッセージ
+GAME_FCASTLE_USECASTLE_ERR_-3,"飛空城が差し押さえ状態のため使用する事ができません"
+
+#飛空城 家具再配置メッセージ
+GAME_FCASTLE_REMOVEFURNITURE_ERR_1,"アイテムの再配置に失敗しました"
+GAME_FCASTLE_REMOVEFURNITURE_ERR_2,"飛空城が差し押さえ状態のため再配置できません"
+GAME_FCASTLE_REMOVEFURNITURE_ERR_3,"他のプレイヤーが操作中のため操作できません"
+GAME_FCASTLE_REMOVEFURNITURE_ERR_4,"配置権限が無い為、配置に失敗しました"
+
+#飛空城 家具撤去メッセージ
+GAME_FCASTLE_DELETEFURNITURE_ERR_1,"アイテムの撤去に失敗しました"
+GAME_FCASTLE_DELETEFURNITURE_ERR_2,"飛空城が差し押さえ状態のため撤去できません"
+GAME_FCASTLE_DELETEFURNITURE_ERR_3,"他のプレイヤーが操作中のため操作できません"
+GAME_FCASTLE_DELETEFURNITURE_ERR_4,"これ以上アイテムを所持することができません"
+GAME_FCASTLE_DELETEFURNITURE_ERR_5,"所有権がないためアイテムを撤去することができません"
+
+#飛空城 家具ロックメッセージ
+GAME_FCASTLE_LOCK_ERR_1,"アイテムの再配置に失敗しました"
+GAME_FCASTLE_LOCK_ERR_2,"飛空城が差し押さえ状態のため再配置できません"
+GAME_FCASTLE_LOCK_ERR_3,"他のプレイヤーが操作中のため操作できません"
+
+#飛空城 アトラクション設置メッセージ
+GAME_FCASTLE_ATTRACTION_SET_MESSAGE,"%dP消費してアトラクションを設置します$rよろしいでしょうか？"
+GAME_FCASTLE_ATTRACTION_DEL_MESSAGE,"アトラクションユニット「ファーム」の撤去は$rこのファーム内の植えられている作物と$r収穫BOXの中身が無くなってしまいますが、$r撤去しますか？"
+GAME_FCASTLE_ATTRACTION_SET_ERR_1,"アイテムの設置に失敗しました"
+GAME_FCASTLE_ATTRACTION_SET_ERR_2,"飛空城が差し押さえ状態のため設置できません"
+GAME_FCASTLE_ATTRACTION_SET_ERR_3,"アトラクションユニットの設置最大数に達しているため、設置することが出来ませんでした"
+GAME_FCASTLE_ATTRACTION_SET_ERR_4,"飛空城が強制撤去状態のため設置できません"
+GAME_FCASTLE_ATTRACTION_SET_ERR_5,"エクスパンションの利用権限がないため、設置できませんでした"
+GAME_FCASTLE_ATTRACTION_SET_ERR_6,"エクスパンションが足りないため、設置できませんでした"
+GAME_FCASTLE_ATTRACTION_INFO_TITLE,"ユニット情報"
+GAME_FCASTLE_ATTRACTION_INFO_UNITLV,"ユニットレベル：%d$r"
+GAME_FCASTLE_ATTRACTION_WATER_TITLE,"現在の水質：%s$r"
+GAME_FCASTLE_ATTRACTION_WATER_TYPE_0,"淡水"
+GAME_FCASTLE_ATTRACTION_WATER_TYPE_1,"海水"
+GAME_FCASTLE_ATTRACTION_WATER_TYPE_2,"泥水"
+GAME_FCASTLE_ATTRACTION_WATER_REGULATION,"水質変更規制：%d分$r"
+
+#飛空城 エクスパンション取得ウィンドウ
+GAME_GETEXPANSION_WND,"エクスパンション取得"
+GAME_GETEXPANSION_EXPANSION_STR,"エクスパンション名"
+GAME_GETEXPANSION_EXPOINT_STR,"ExpansionPoint"
+GAME_GETEXPANSION_NEEDEXPOINT_STR,"必要ExpansionPoint"
+GAME_GETEXPANSION_P_STR,"P"
+
+GAME_GETEXPANSION_RESULT_OK,"%sを取得しました"
+GAME_GETEXPANSION_RESULT_ERR1,"何らかの原因で取得に失敗しました"
+GAME_GETEXPANSION_RESULT_ERR2,"滞納状態の為、取得に失敗しました"
+GAME_GETEXPANSION_RESULT_ERR3,"強制撤去状態の為、取得に失敗しました"
+
+
+#飛空城 エクスパンション設定ウィンドウ
+GAME_SETEXPANSION_WND,"エクスパンション設定"
+GAME_SETEXPANSION_EXPANSION_STR,"ブースエクスパンション"
+GAME_SETEXPANSION_LABEL_NAME,"名称     :"
+GAME_SETEXPANSION_LABEL_INFO,"詳細     :"
+GAME_SETEXPANSION_LABEL_ADDEFFECT,"追加効果 :"
+GAME_SETEXPANSION_OK_CHECK,"エクスパンションポイントを$r%dP消費しますがよろしいですか？"
+
+GAME_SETEXPANSION_NO_EXPANSION,"空き地"
+GAME_SETEXPANSION_NO_EXPANSION_INFO,"取得したブースエクスパンションを設定できます"
+
+
+GAME_SETEXPANSION_ERR_1,"何らかの原因で失敗しました"
+GAME_SETEXPANSION_ERR_2,"滞納状態の為、設定に失敗しました"
+GAME_SETEXPANSION_ERR_3,"差し押さえ状態の為、設定に失敗しました"
+GAME_SETEXPANSION_ERR_4,"強制撤去状態の為、設定に失敗しました"
+GAME_SETEXPANSION_ERR_5,"エクスパンションポイントが足りません"
+GAME_SETEXPANSION_NOTDATA,"設定できるエクスパンションがありません"
+
+GAME_SETEXPANSION_RESULT_ERR_1,"何らかの原因で失敗しました"
+GAME_SETEXPANSION_RESULT_ERR_2,"権限者が設定中の為、失敗しました"
+GAME_SETEXPANSION_RESULT_ERR_3,"今は機能を操作できません"
+GAME_SETEXPANSION_RESULT_ERR_4,"今は機能を操作できません"
+
+# 飛空庭家具リスト
+GAME_FURNITURELIST_TITLE,"家具リスト"
+GAME_FURNITURELIST_NONE,"家具が配置されていません"
+GAME_FURNITURELIST_NUM,"配置数 %d"
+GAME_FURNITURELIST_HIDE_MSG,"非表示になっている家具があります"
+
+GAME_FCASTLEEQUIP_TITLE,"飛空城改造"

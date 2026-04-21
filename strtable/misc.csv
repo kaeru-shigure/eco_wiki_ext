@@ -1,0 +1,100 @@
+# クライアントデータのコードページ番号
+CLIENT_DATA_CODE_PAGE,"932"
+
+# 国識別番号
+# 完全にクライアント用に作成したもの
+# 香港と台湾は将来の事を考えてわけてある
+# グローバルはKalydo海外用。Kalydo版exeにしか存在しないので注意
+# 0 japan
+# 1 korea
+# 2 thai
+# 3 hongkong
+# 4 taiwan
+# 5 global
+LOCAL_SYSTEM_COUNTRY, "0"
+
+
+
+# アプリケーション
+APP_ERR_BOOT_LAUNCH,"eco_launchから起動してください。"
+APP_ERR_PROBLEM,"問題が発生したため、終了します。"
+
+APP_MENU_SYSTEM,"システム"
+APP_MENU_LOGOUT,"ログアウト"
+APP_MENU_END,"終了"
+
+# DirectX
+DX_ERR_TEX_FMT,"「A8R8G8B8」または「A1R5G5B5」のテクスチャが作成できませんでした。"
+DX_ERR_CANT_INIT,"Direct3Dを初期化することができませんでした。"
+DX_ERR_CANT_FIND_D3D,"互換性をもつDirect3Dを見つけることができませんでした。"
+DX_ERR_RUN_16_OR_32_DM,"16ビットか32ビットのディスプレイモードで実行してください。"
+
+DX_ERRMSG_0,"正常に終了しました。"
+DX_ERRMSG_1,"DirectX のバージョンが8.0以降ではありません。"
+DX_ERRMSG_2,"DirectX の初期化に失敗しました。"
+DX_ERRMSG_3,"ソフトウェアモードで起動したため、$r非常に低速です。"
+DX_ERRMSG_4,"起動に失敗しました。"
+DX_ERRMSG_5,"必要なファイルが足りませんでした。"
+DX_ERRMSG_6,"eco_launchから起動してください。"
+
+# misc
+MISC_NUM_0,"０"
+MISC_NUM_1,"１"
+MISC_NUM_2,"２"
+MISC_NUM_3,"３"
+MISC_NUM_4,"４"
+MISC_NUM_5,"５"
+MISC_NUM_6,"６"
+MISC_NUM_7,"７"
+MISC_NUM_8,"８"
+MISC_NUM_9,"９"
+
+MISC_DAY_0,"日"
+MISC_DAY_1,"月"
+MISC_DAY_2,"火"
+MISC_DAY_3,"水"
+MISC_DAY_4,"木"
+MISC_DAY_5,"金"
+MISC_DAY_6,"土"
+
+MISC_DAY,"日"
+MISC_HOUR,"時間"
+MISC_MINUTE,"分"
+MISC_SECOND,"秒"
+
+MISC_PARCENT,"％"
+
+# font 
+FONT_SELECT_0,"ＭＳ ゴシック"
+FONT_SELECT_1,"MS UI Gothic"
+FONT_SELECT_2,"HG創英角ﾎﾟｯﾌﾟ体"
+FONT_SELECT_3,"HG創英角ｺﾞｼｯｸUB"
+FONT_SELECT_4,"ＭＳ Pゴシック"
+FONT_SELECT_5,"HG明朝E"
+FONT_SELECT_6,"HG行書体"
+FONT_SELECT_7,"HG教科書体"
+FONT_SELECT_8,"HG丸ｺﾞｼｯｸM-PRO"
+FONT_SELECT_9,"HGSｺﾞｼｯｸE"
+FONT_SELECT_10,"メイリオ"
+
+FONT_DEFAULT_0,"ＭＳ ゴシック"
+FONT_DEFAULT_1,"メイリオ"
+FONT_DEFAULT_2,"メイリオ"
+FONT_DEFAULT_3,"メイリオ"
+
+FONT_DEFAULT_BITMAP_0,"1"
+FONT_DEFAULT_BITMAP_1,"0"
+FONT_DEFAULT_BITMAP_2,"0"
+FONT_DEFAULT_BITMAP_3,"0"
+
+FONT_SUB_0,"ＭＳ ゴシック"
+FONT_SUB_1,"ＭＳ ゴシック"
+FONT_SUB_2,"ＭＳ ゴシック"
+FONT_SUB_3,"ＭＳ ゴシック"
+
+FONT_SUB_BITMAP_0,"1"
+FONT_SUB_BITMAP_1,"1"
+FONT_SUB_BITMAP_2,"1"
+FONT_SUB_BITMAP_3,"0"
+
+FONT_3POINT_LEADER,"…"

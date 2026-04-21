@@ -1,0 +1,27 @@
+# パーティ
+GAME_PARTY_REQ,"%sさんから$rパーティー参加要請を受けました"
+GAME_PARTY_REQ_PARTY,"%sの%sさんから$rパーティー参加要請を受けました"
+GAME_PARTY_REQ_TITLE,"パーティー要請"
+GAME_PARTY_NO_ASSIGN,"パーティーに所属していません"
+GAME_PARTY_TOO_LONG_NAME,"パーティー名が長すぎます"
+GAME_PARTY_FORCE_LEAVE_MEM,"パーティーメンバーを脱退させます"
+GAME_PARTY_LEAVE,"パーティーから脱退します"
+GAME_PARTY_BREAKUP,"パーティーを解散します"
+GAME_PARTY_INPUT_NAME,"パーティー名を入力してください"
+
+GAME_PARTY_LEADER_MEM_MENU_0,"ウィスパー"
+GAME_PARTY_LEADER_MEM_MENU_1,"パーティーを脱退させる"
+GAME_PARTY_LEADER_MEM_MENU_2,"追尾"
+
+GAME_PARTY_LEADER_MENU_0,"パーティー名変更"
+GAME_PARTY_LEADER_MENU_1,"パーティーを解散する"
+
+GAME_PARTY_MENU_0,"パーティーから抜ける"
+
+GAME_PARTY_MENU_MEMBER_0,"ウィスパー"
+GAME_PARTY_MENU_MEMBER_1,"追尾"
+
+GAME_PARTY_MENU_LEADER_0,"ウィスパー"
+GAME_PARTY_MENU_LEADER_1,"追尾"
+
+GAME_PARTY_FIRSTGETTERTYPE,"アイテムのランダム取得"
